@@ -16,5 +16,7 @@
     <author href="http://www.napies.es" email="info@napies.es">
         NAPIESP 
     </author>
+    
+    <icon src="icono.png" gap:platform="android" gap:density="ldpi" />
 
 </widget>
